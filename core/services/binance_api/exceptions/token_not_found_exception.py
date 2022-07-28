@@ -1,0 +1,2 @@
+class TokenNotFoundException(Exception):
+    pass
